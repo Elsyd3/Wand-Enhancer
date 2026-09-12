@@ -1,4 +1,4 @@
-name: Build executable
+name: Wand-Enhancer
 
 on:
   workflow_dispatch:
